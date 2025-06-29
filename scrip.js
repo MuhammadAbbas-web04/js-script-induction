@@ -24,15 +24,37 @@
 
 // var username = "abuzar";
 // console.log()
-var totelMarks=400;
-var username=prompt( "inter your name" );
-var subject1=+prompt ( " enter your subject 1 marks " ) ;
-var subject2=+prompt ( " enter your subject 2 marks " ) ;
-var subject3=+prompt ( " enter your subject  3 marks " ) ;
-var subject4=+prompt ( " enter your subject 4 marks " ) ;
-var obtainMarks=  subject1 + subject2 + subject3 + subject4 ;
-var percentage= obtainMarks/totelMarks*100;
-console.log("Mr/Mrs " + username + " your percentage is: " + percentage + "%");  
+// var totelMarks=400;
+// var username=prompt( "inter your name" );
+// var subject1=+prompt ( " enter your subject 1 marks " ) ;
+// var subject2=+prompt ( " enter your subject 2 marks " ) ;
+// var subject3=+prompt ( " enter your subject  3 marks " ) ;
+// var subject4=+prompt ( " enter your subject 4 marks " ) ;
+// var obtainMarks=  subject1 + subject2 + subject3 + subject4 ;
+// var percentage= obtainMarks/totelMarks*100;
+// console.log("Mr/Mrs " + username + " your percentage is: " + percentage + "%"); 
+
+
+var  a =  30 ;
+// var num2  = 40;
+// console.log(num1 + num2)
+// console.log(num1 - num2)
+// console.log( num1 * num2 )
+// console.log(num1 / num2)
+// console.log(num1 % 4)
+
+a += 20; 
+
+console.log(num1 += 10)
+
+
+
+
+
+
+
+
+
 
 
 
