@@ -35,7 +35,7 @@
 // console.log("Mr/Mrs " + username + " your percentage is: " + percentage + "%"); 
 
 
-var  a =  30 ;
+// var  a =  30 ;
 // var num2  = 40;
 // console.log(num1 + num2)
 // console.log(num1 - num2)
@@ -43,18 +43,34 @@ var  a =  30 ;
 // console.log(num1 / num2)
 // console.log(num1 % 4)
 
-a += 20; 
+// a += 20; 
 
-console.log(num1 += 10)
+// console.log(a += 10)
+
+// console.log("20" + "10")
+// console.log("20" - "10")
+
+//assiment1
+
+// var username= prompt( "inter your username" );
+// alert("hello " + username);
+
+
+//assiment2
+
+// var username= prompt("inter your name");
+// var age= +prompt("inter your age");
+// console.log( username + " is " + age + " years old. " );
 
 
 
+// var color= prompt("inter color name");
+// alert("wow! " + color + " is nice color" );
 
-
-
-
-
-
+var num1= +prompt( " inter your num1 vlue " );
+var num2= +prompt( "inter your num2 vlue " );
+var totel= num1 + num2;
+console.log();
 
 
 
